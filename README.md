@@ -4,6 +4,8 @@ git clone https://github.com/ankireddy501/spring-mongodb-web.git
 </br>cd spring-mongodb-web
 </br>mvn test tomcat7:run
 
+</br>you can access the web app http://localhost:8080
+
 </br>follow the instructions to install the mongodb & start
 
 </br>https://docs.mongodb.org/manual/tutorial/install-mongodb-on-windows/
