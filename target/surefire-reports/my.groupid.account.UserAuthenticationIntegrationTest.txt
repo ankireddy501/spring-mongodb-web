@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: my.groupid.account.UserAuthenticationIntegrationTest
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 5.894 sec - in my.groupid.account.UserAuthenticationIntegrationTest
